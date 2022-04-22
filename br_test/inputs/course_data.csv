@@ -1,0 +1,24 @@
+Course,Slots,Weight,Favorite,Veto,Title
+COS126,10,,tshankar;shatford;avelasco;cms11;minaba;jg41;rt3811;watsonj;monaw;dhaller;jy1682,zhoul;bb5943;kc31;zhijunz,Computer Science: An Interdisciplinary Approach
+COS217,4,,argueta;weicongd;jg41;minaba;akalaba;jknodt;huihanl;mp4215;cms11;dorothyz,gb5435;tianyug;ckoh;yl1128;zeyum;nr14;jtuyls,Introduction to Programming Systems
+COS226,6,,anatk;shiyunq;yl1128;kc31;chugunov;jg41;dhaller;minaba;watsonj;kmittal;vivienn;dp20;mp4215;np6641;tshankar;shatford;cms11;rt3811;monaw,dl33;tcai;qdang,Algorithms and Data Structures
+COS302,2,,,,Mathematics for Numerical Computing and Machine Learning
+COS318,2,,,,Operating Systems
+COS324,9,,smalladi;tianyug;hc22;mengzhou;jtuyls;huihanl;haoyu;murahari;nr14;solodova,,Introduction to Machine Learning
+COS326,3,,jmc16;jy1682;kc31;dl33;akalaba;dp20,,Functional Programming
+COS333,3,,jg41;anatk;dorothyz;mdsun;monaw,bb5943,Advanced Programming Techniques
+COS340,5,,dp20;np6641;kmittal;jp7224;shatford;kawint,ckoh;zhijunz;dhaller,Reasoning about Computation
+COS360,1,,solodova;df22;hc22,,Computational Models of Cognition
+COS375,2,,ishitac;rohanbp,bb5943,Computer Architecture and Organization
+COS429,3,,suhk;dl33;dorothyz;shiyunq;vivienn,anatk,Computer Vision
+COS432,5,,rbamos;minaba;watsonj;monaw,,Information Security
+COS451,1,,,,Computational Geometry
+COS461,2,,,bt4755,Computer Networks
+COS487,3,,dp20;kmittal;zhijunz;tcai,I strongly prefer to get theory students and avoid getting non-theoreticians,Theory of Computation
+COS513,2,,,,Foundations of Probabilistic Modeling
+COS516,1,,,,Automated Reasoning about Software
+COS521,2,,tcai;kmittal;dp20;zhijunz,dy5;mp4215;zeyum;jduque,Advanced Algorithm Design
+COS526,1,,,,Advanced Computer Graphics
+COS529,1,,zeyum,,Advanced Computer Vision
+COS551,1,,,,Introduction to Genomics and Computational Molecular Biology
+COS561,1,,,,Advanced Computer Networks

@@ -1,0 +1,232 @@
+huihanl matched to COS217 (Good)
+Feasible: 
+COS126 (Good), COS217 (Good), COS226 (Good), COS302 (nan), COS318 (nan), COS324 (Favorite), COS326 (Okay), COS333 (nan), COS340 (Good), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+np6641 matched to COS340 (Favorite)
+Feasible: 
+COS126 (Good), COS217 (Okay), COS226 (Good), COS302 (Favorite), COS318 (Okay), COS324 (Good), COS326 (nan), COS333 (nan), COS340 (Favorite), COS375 (Okay), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+akalaba matched to COS326 (Good)
+Feasible: 
+COS126 (Okay), COS217 (Good), COS226 (Okay), COS302 (nan), COS318 (Favorite), COS324 (nan), COS326 (Good), COS333 (Good), COS340 (nan), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (Favorite), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+cdg4 matched to COS513 (Good)
+Feasible: 
+COS126 (Good), COS217 (Okay), COS226 (Good), COS302 (Good), COS318 (nan), COS324 (Favorite), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (Good), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+argueta matched to COS217 (Good)
+Feasible: 
+COS126 (Good), COS217 (Good), COS226 (Okay), COS302 (Good), COS318 (nan), COS324 (Favorite), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (Okay), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+watsonj matched to COS432 (Favorite)
+Feasible: 
+COS126 (Good), COS217 (Okay), COS226 (Good), COS302 (Okay), COS318 (Good), COS324 (nan), COS326 (nan), COS333 (nan), COS340 (Okay), COS375 (Okay), COS429 (nan), COS432 (Favorite), COS451 (nan), COS461 (Good), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+vivienn matched to COS429 (Favorite)
+Feasible: 
+COS126 (Good), COS217 (Okay), COS226 (Good), COS302 (Okay), COS318 (nan), COS324 (Okay), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (Favorite), COS432 (nan), COS451 (Good), COS461 (Good), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+mn9794 matched to COS226 (Favorite)
+Feasible: 
+COS126 (Good), COS217 (nan), COS226 (Favorite), COS302 (Favorite), COS318 (nan), COS324 (Good), COS326 (nan), COS333 (nan), COS340 (Okay), COS375 (Good), COS429 (Good), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+dorothyz matched to COS333 (Favorite)
+Feasible: 
+COS126 (Good), COS217 (Okay), COS226 (Good), COS302 (Good), COS318 (nan), COS324 (Okay), COS326 (nan), COS333 (Favorite), COS340 (Okay), COS375 (nan), COS429 (Good), COS432 (Okay), COS451 (Okay), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+jknodt matched to COS318 (Favorite)
+Feasible: 
+COS126 (Okay), COS217 (Good), COS226 (Good), COS302 (Okay), COS318 (Favorite), COS324 (Okay), COS326 (Good), COS333 (Okay), COS340 (Good), COS375 (Good), COS429 (Favorite), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+xl2493 matched to COS326 (Favorite)
+Feasible: 
+COS126 (Good), COS217 (Okay), COS226 (Good), COS302 (nan), COS318 (nan), COS324 (nan), COS326 (Favorite), COS333 (Good), COS340 (Okay), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+chugunov matched to COS561 (nan)
+Feasible: 
+COS126 (Okay), COS217 (Okay), COS226 (Good), COS302 (Favorite), COS318 (nan), COS324 (Good), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (Good), COS432 (Okay), COS451 (Good), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (Favorite), COS551 (nan), COS561 (nan)
+df22 matched to COS360 (Favorite)
+Feasible: 
+COS126 (Okay), COS217 (nan), COS226 (Okay), COS302 (Good), COS318 (nan), COS324 (Good), COS326 (Good), COS333 (Okay), COS340 (Okay), COS360 (Favorite), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (Okay), COS487 (Okay), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+carlosej matched to COS487 (Good)
+Feasible: 
+COS126 (Okay), COS217 (Okay), COS226 (Okay), COS302 (Good), COS318 (nan), COS324 (Favorite), COS326 (nan), COS333 (Good), COS340 (Good), COS375 (nan), COS429 (Favorite), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (Good), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+jtuyls matched to COS324 (Favorite)
+Feasible: 
+COS126 (Good), COS226 (Good), COS302 (Favorite), COS318 (nan), COS324 (Favorite), COS326 (nan), COS333 (Okay), COS340 (Good), COS375 (Okay), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (Okay), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+jduque matched to COS324 (Favorite)
+Feasible: 
+COS126 (nan), COS217 (nan), COS226 (Good), COS302 (Favorite), COS318 (nan), COS324 (Favorite), COS326 (nan), COS333 (Okay), COS340 (Good), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (Okay), COS513 (nan), COS516 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+yl1128 matched to COS226 (Favorite)
+Feasible: 
+COS126 (Good), COS226 (Favorite), COS302 (nan), COS318 (nan), COS324 (nan), COS326 (nan), COS333 (Okay), COS340 (Good), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+ishitac matched to COS375 (Favorite)
+Feasible: 
+COS126 (Good), COS217 (Good), COS226 (Good), COS302 (nan), COS318 (nan), COS324 (nan), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (Favorite), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (Okay), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+tianyug matched to COS324 (Favorite)
+Feasible: 
+COS126 (Good), COS226 (Good), COS302 (nan), COS318 (nan), COS324 (Favorite), COS326 (nan), COS333 (Okay), COS340 (nan), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+minaba matched to COS432 (Favorite)
+Feasible: 
+COS126 (Favorite), COS217 (Okay), COS226 (Good), COS302 (Good), COS318 (nan), COS324 (Okay), COS326 (nan), COS333 (Okay), COS340 (Okay), COS375 (nan), COS429 (Okay), COS432 (Favorite), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+zeyum matched to COS529 (Good)
+Feasible: 
+COS126 (Okay), COS226 (Okay), COS302 (Favorite), COS318 (nan), COS324 (Good), COS326 (nan), COS333 (nan), COS340 (Good), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (Favorite), COS461 (nan), COS487 (Okay), COS513 (nan), COS516 (nan), COS526 (nan), COS529 (Good), COS551 (nan), COS561 (nan)
+dy5 matched to COS516 (Favorite)
+Feasible: 
+COS126 (Okay), COS217 (nan), COS226 (Okay), COS302 (nan), COS318 (nan), COS324 (Okay), COS326 (nan), COS333 (nan), COS340 (Okay), COS375 (Good), COS429 (nan), COS432 (Good), COS451 (nan), COS461 (Good), COS487 (nan), COS513 (nan), COS516 (Favorite), COS526 (nan), COS551 (nan), COS561 (nan)
+smalladi matched to COS324 (Favorite)
+Feasible: 
+COS126 (Okay), COS217 (nan), COS226 (Good), COS302 (Good), COS318 (nan), COS324 (Favorite), COS326 (nan), COS333 (nan), COS340 (Good), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (Okay), COS461 (nan), COS487 (Okay), COS513 (nan), COS516 (nan), COS521 (Okay), COS526 (nan), COS551 (nan), COS561 (nan)
+runzel matched to COS340 (Favorite)
+Feasible: 
+COS126 (Good), COS217 (nan), COS226 (Favorite), COS302 (Favorite), COS318 (nan), COS324 (Favorite), COS326 (nan), COS333 (nan), COS340 (Favorite), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+avelasco matched to COS126 (Favorite)
+Feasible: 
+COS126 (Favorite), COS217 (nan), COS226 (Good), COS302 (nan), COS318 (nan), COS324 (Okay), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+mp4215 matched to COS217 (Good)
+Feasible: 
+COS126 (Good), COS217 (Good), COS226 (Good), COS302 (Okay), COS318 (nan), COS324 (Favorite), COS326 (Okay), COS333 (nan), COS340 (Good), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (Favorite), COS461 (nan), COS487 (Okay), COS513 (nan), COS516 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+mengzhou matched to COS324 (Favorite)
+Feasible: 
+COS126 (nan), COS217 (nan), COS226 (nan), COS302 (nan), COS318 (nan), COS324 (Favorite), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+solodova matched to COS461 (Good)
+Feasible: 
+COS126 (Good), COS217 (Okay), COS226 (Okay), COS302 (Good), COS318 (nan), COS324 (Favorite), COS326 (Okay), COS333 (nan), COS340 (Okay), COS360 (Favorite), COS375 (Okay), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (Good), COS487 (nan), COS513 (Good), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+qdang matched to COS318 (Good)
+Feasible: 
+COS126 (Favorite), COS217 (Good), COS302 (nan), COS318 (Good), COS324 (nan), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+jy1682 matched to COS126 (Good)
+Feasible: 
+COS126 (Good), COS217 (Okay), COS226 (Okay), COS302 (Good), COS318 (Okay), COS324 (Good), COS326 (Okay), COS333 (Favorite), COS340 (nan), COS375 (Good), COS429 (Favorite), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+kawint matched to COS340 (Good)
+Feasible: 
+COS126 (Okay), COS217 (nan), COS226 (Okay), COS302 (Good), COS318 (nan), COS324 (Good), COS326 (nan), COS333 (nan), COS340 (Good), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (Favorite), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (Good), COS526 (nan), COS551 (nan), COS561 (nan)
+bt4755 matched to COS226 (Favorite)
+Feasible: 
+COS126 (Okay), COS217 (Okay), COS226 (Favorite), COS302 (Favorite), COS318 (nan), COS324 (nan), COS326 (nan), COS333 (nan), COS340 (Good), COS375 (Okay), COS429 (nan), COS432 (nan), COS451 (Good), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+bb5943 matched to COS226 (Favorite)
+Feasible: 
+COS217 (Okay), COS226 (Favorite), COS302 (nan), COS318 (nan), COS324 (nan), COS326 (Good), COS340 (nan), COS360 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (Okay), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+gac3 matched to COS451 (Favorite)
+Feasible: 
+COS126 (Okay), COS217 (Good), COS226 (Good), COS302 (Okay), COS318 (nan), COS324 (nan), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (Good), COS429 (nan), COS432 (nan), COS451 (Favorite), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+cms11 matched to COS126 (Favorite)
+Feasible: 
+COS126 (Favorite), COS217 (Good), COS226 (Good), COS302 (nan), COS318 (Okay), COS324 (nan), COS326 (nan), COS333 (Good), COS340 (nan), COS375 (nan), COS429 (nan), COS432 (Okay), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+gb5435 matched to COS340 (Good)
+Feasible: 
+COS126 (Good), COS226 (Good), COS302 (Good), COS318 (nan), COS324 (nan), COS326 (nan), COS333 (nan), COS340 (Good), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+murahari matched to COS324 (Favorite)
+Feasible: 
+COS126 (Okay), COS217 (Okay), COS226 (Okay), COS302 (Favorite), COS318 (nan), COS324 (Favorite), COS326 (nan), COS333 (Good), COS340 (nan), COS375 (nan), COS429 (Good), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+rohanbp matched to COS375 (Good)
+Feasible: 
+COS126 (Okay), COS217 (Okay), COS226 (Okay), COS302 (nan), COS318 (Favorite), COS324 (nan), COS326 (nan), COS333 (Good), COS340 (nan), COS375 (Good), COS429 (nan), COS432 (Favorite), COS451 (nan), COS461 (Okay), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+nl5 matched to COS461 (Good)
+Feasible: 
+COS126 (Good), COS217 (Favorite), COS226 (Favorite), COS302 (nan), COS318 (Okay), COS324 (nan), COS326 (nan), COS333 (nan), COS340 (Okay), COS375 (Good), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (Good), COS487 (nan), COS513 (nan), COS516 (Good), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+zhoul matched to COS521 (Good)
+Feasible: 
+COS217 (nan), COS226 (nan), COS302 (Good), COS318 (nan), COS324 (Good), COS326 (nan), COS333 (nan), COS340 (Okay), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (Good), COS513 (nan), COS516 (nan), COS521 (Good), COS526 (nan), COS551 (nan), COS561 (nan)
+mdsun matched to COS561 (nan)
+Feasible: 
+COS126 (Good), COS217 (Okay), COS226 (Good), COS302 (Favorite), COS318 (nan), COS324 (Favorite), COS326 (nan), COS333 (Good), COS340 (Okay), COS375 (nan), COS429 (Good), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+shatford matched to COS126 (Favorite)
+Feasible: 
+COS126 (Favorite), COS217 (nan), COS226 (Good), COS302 (nan), COS318 (nan), COS324 (nan), COS326 (Okay), COS333 (nan), COS340 (Good), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (Good), COS513 (nan), COS516 (Okay), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+tcai matched to COS521 (Favorite)
+Feasible: 
+COS126 (Okay), COS217 (nan), COS302 (Okay), COS318 (nan), COS324 (nan), COS326 (nan), COS333 (nan), COS340 (Good), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (Good), COS461 (nan), COS487 (Favorite), COS513 (nan), COS516 (nan), COS521 (Favorite), COS526 (nan), COS551 (nan), COS561 (nan)
+suhk matched to COS429 (Favorite)
+Feasible: 
+COS126 (Good), COS217 (nan), COS226 (nan), COS302 (nan), COS318 (nan), COS324 (Good), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (Favorite), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+jg41 matched to COS333 (Good)
+Feasible: 
+COS126 (Good), COS217 (Okay), COS226 (Good), COS302 (nan), COS318 (nan), COS324 (nan), COS326 (Favorite), COS333 (Good), COS340 (Good), COS375 (nan), COS429 (Good), COS432 (nan), COS451 (nan), COS461 (Okay), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+jmc16 matched to COS561 (nan)
+Feasible: 
+COS126 (Okay), COS217 (nan), COS226 (Okay), COS302 (nan), COS318 (nan), COS324 (nan), COS326 (Favorite), COS333 (nan), COS340 (Good), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (Good), COS513 (nan), COS516 (Good), COS521 (Okay), COS526 (nan), COS551 (nan), COS561 (nan)
+dp20 matched to COS487 (Good)
+Feasible: 
+COS126 (Okay), COS217 (Okay), COS226 (Good), COS302 (Okay), COS318 (nan), COS324 (nan), COS326 (Okay), COS333 (nan), COS340 (Favorite), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (Good), COS513 (nan), COS516 (nan), COS521 (Good), COS526 (nan), COS551 (nan), COS561 (nan)
+kc31 matched to COS326 (Favorite)
+Feasible: 
+COS217 (nan), COS226 (Good), COS302 (Good), COS318 (nan), COS324 (Good), COS326 (Favorite), COS333 (Good), COS340 (Okay), COS375 (nan), COS429 (nan), COS432 (Okay), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+anatk matched to COS333 (Good)
+Feasible: 
+COS126 (Okay), COS217 (nan), COS226 (Good), COS302 (nan), COS318 (nan), COS324 (Favorite), COS326 (nan), COS333 (Good), COS340 (nan), COS375 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+canc matched to COS513 (Good)
+Feasible: 
+COS126 (nan), COS217 (nan), COS226 (nan), COS302 (Favorite), COS318 (nan), COS324 (Favorite), COS326 (nan), COS333 (nan), COS340 (Good), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (Okay), COS513 (Good), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+shiyunq matched to COS226 (Favorite)
+Feasible: 
+COS126 (Okay), COS217 (Okay), COS226 (Favorite), COS302 (Good), COS318 (nan), COS324 (Good), COS326 (nan), COS333 (nan), COS340 (Good), COS375 (nan), COS429 (Good), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+weicongd matched to COS217 (Favorite)
+Feasible: 
+COS126 (Good), COS217 (Favorite), COS226 (Good), COS302 (nan), COS318 (nan), COS324 (Good), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+tshankar matched to COS126 (Favorite)
+Feasible: 
+COS126 (Favorite), COS217 (Okay), COS226 (Good), COS302 (Favorite), COS318 (nan), COS324 (Okay), COS326 (Okay), COS333 (nan), COS340 (Good), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+jp7224 matched to COS340 (Good)
+Feasible: 
+COS126 (Okay), COS217 (Okay), COS226 (Good), COS302 (Favorite), COS318 (nan), COS324 (Favorite), COS326 (nan), COS333 (nan), COS340 (Good), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+rt3811 matched to COS126 (Good)
+Feasible: 
+COS126 (Good), COS217 (Favorite), COS226 (Favorite), COS302 (Okay), COS318 (Good), COS324 (Okay), COS326 (nan), COS333 (Okay), COS340 (Okay), COS375 (Good), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+monaw matched to COS432 (Favorite)
+Feasible: 
+COS126 (Good), COS217 (Good), COS226 (Good), COS302 (nan), COS318 (Okay), COS324 (Okay), COS326 (nan), COS333 (Good), COS340 (Okay), COS375 (nan), COS429 (nan), COS432 (Favorite), COS451 (nan), COS461 (Okay), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+dl33 matched to COS429 (Favorite)
+Feasible: 
+COS126 (nan), COS217 (nan), COS302 (Okay), COS318 (Good), COS324 (Good), COS326 (Good), COS333 (Okay), COS340 (nan), COS375 (nan), COS429 (Favorite), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+ckoh matched to COS432 (Good)
+Feasible: 
+COS126 (Okay), COS226 (Okay), COS302 (nan), COS318 (Okay), COS324 (nan), COS326 (nan), COS333 (nan), COS375 (nan), COS429 (nan), COS432 (Good), COS451 (nan), COS461 (Good), COS487 (Favorite), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+hc22 matched to COS324 (Favorite)
+Feasible: 
+COS126 (Okay), COS217 (nan), COS226 (Okay), COS302 (Good), COS318 (nan), COS324 (Favorite), COS326 (nan), COS333 (nan), COS340 (nan), COS360 (Good), COS375 (nan), COS429 (Good), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+dhaller matched to COS126 (Favorite)
+Feasible: 
+COS126 (Favorite), COS217 (Okay), COS226 (Good), COS302 (Favorite), COS318 (Okay), COS324 (Good), COS326 (Good), COS333 (Okay), COS375 (nan), COS429 (Okay), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (Good), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+zhijunz matched to COS487 (Favorite)
+Feasible: 
+COS217 (Okay), COS226 (Good), COS302 (nan), COS318 (nan), COS324 (nan), COS326 (nan), COS333 (nan), COS360 (nan), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (Favorite), COS513 (nan), COS516 (nan), COS521 (Favorite), COS526 (nan), COS551 (nan), COS561 (nan)
+haoyu matched to COS324 (Favorite)
+Feasible: 
+COS126 (Good), COS217 (Okay), COS226 (Good), COS302 (Okay), COS318 (nan), COS324 (Favorite), COS326 (nan), COS333 (nan), COS340 (Favorite), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (Okay), COS461 (nan), COS487 (Good), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+kmittal matched to COS561 (nan)
+Feasible: 
+COS126 (Good), COS217 (nan), COS226 (Good), COS302 (nan), COS318 (nan), COS324 (nan), COS326 (nan), COS333 (nan), COS340 (Okay), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (Favorite), COS513 (nan), COS516 (nan), COS521 (Good), COS526 (nan), COS551 (nan), COS561 (nan)
+yunyunw matched to COS126 (Favorite)
+Feasible: 
+COS126 (Favorite), COS217 (Good), COS226 (Favorite), COS302 (Good), COS318 (nan), COS324 (Good), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (Good), COS432 (nan), COS451 (Okay), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (Okay), COS551 (nan), COS561 (nan)
+nr14 matched to COS561 (nan)
+Feasible: 
+COS126 (Okay), COS226 (Okay), COS302 (Good), COS318 (nan), COS324 (Favorite), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (Good), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+kw2960 matched to COS126 (Favorite)
+Feasible: 
+COS126 (Favorite), COS217 (nan), COS226 (nan), COS302 (Good), COS318 (nan), COS324 (Good), COS326 (Good), COS333 (Favorite), COS340 (Okay), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+samyakg matched to COS561 (nan)
+Feasible: 
+COS126 (Favorite), COS217 (Favorite), COS226 (Good), COS302 (Favorite), COS318 (Good), COS324 (Okay), COS326 (nan), COS333 (Favorite), COS340 (Okay), COS375 (Good), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+rbamos matched to COS432 (Favorite)
+Feasible: 
+COS126 (Okay), COS217 (Okay), COS226 (Okay), COS302 (nan), COS318 (nan), COS324 (Okay), COS326 (nan), COS333 (Good), COS340 (nan), COS375 (nan), COS429 (nan), COS432 (Favorite), COS451 (nan), COS461 (Favorite), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+dm3862 matched to COS302 (Favorite)
+Feasible: 
+COS126 (nan), COS217 (nan), COS226 (nan), COS302 (Favorite), COS318 (nan), COS324 (nan), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+na6332 matched to COS561 (Favorite)
+Feasible: 
+COS126 (nan), COS217 (nan), COS226 (nan), COS302 (nan), COS318 (nan), COS324 (nan), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (Favorite)
+tinghanf matched to COS302 (Favorite)
+Feasible: 
+COS126 (nan), COS217 (nan), COS226 (nan), COS302 (Favorite), COS318 (nan), COS324 (nan), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+lleal matched to COS226 (Favorite)
+Feasible: 
+COS126 (nan), COS217 (nan), COS226 (Favorite), COS302 (nan), COS318 (nan), COS324 (nan), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+yutingy matched to COS526 (Favorite)
+Feasible: 
+COS126 (nan), COS217 (nan), COS226 (nan), COS302 (nan), COS318 (nan), COS324 (nan), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (Favorite), COS551 (nan), COS561 (nan)
+etureci matched to COS126 (Favorite)
+Feasible: 
+COS126 (Favorite), COS217 (nan), COS226 (nan), COS302 (nan), COS318 (nan), COS324 (nan), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+micahf matched to COS551 (Favorite)
+Feasible: 
+COS126 (nan), COS217 (nan), COS226 (nan), COS302 (nan), COS318 (nan), COS324 (nan), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (Favorite), COS561 (nan)
+yl16 matched to COS324 (Good)
+Feasible: 
+COS126 (nan), COS217 (nan), COS226 (nan), COS302 (nan), COS318 (nan), COS324 (Good), COS326 (nan), COS333 (nan), COS340 (nan), COS375 (nan), COS429 (nan), COS432 (nan), COS451 (nan), COS461 (nan), COS487 (nan), COS513 (nan), COS516 (nan), COS521 (nan), COS526 (nan), COS551 (nan), COS561 (nan)
+6 out of 6 students with -1 initial improved
+0 out of 0 students with 0 initial improved
+20 out of 23 students with 1 initial improved
+0 out of 47 students with 2 initial improved
